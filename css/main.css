@@ -1,0 +1,163 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap");
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  list-style: none;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.nav {
+  background: rgb(244, 245, 255);
+  padding-top: 5px;
+  cursor: grab;
+}
+.nav .nav__text-div .nav__toshkent-text {
+  font-weight: 500;
+}
+.nav .nav__text-div2 .nav__assign-text {
+  font-weight: 500;
+  margin-left: -10px;
+}
+.nav .nav__text-div3 .nav__order-text {
+  color: rgb(162, 162, 165);
+  font-weight: 400;
+}
+.nav .nav__text-div4 .nav__answer-text {
+  font-weight: 500;
+  letter-spacing: 0.3px;
+  margin-left: 30px;
+}
+.nav .nav__text-div4 .nav__answer-text .nav__quasion-text {
+  padding-left: 30px;
+  letter-spacing: 0.3px;
+}
+
+.nav2 {
+  margin-top: 20px;
+}
+.nav2 .nav2__uzum-img {
+  display: flex;
+}
+.nav2 .nav2__uzum-img .nav__uzum {
+  height: 40px;
+  height: 40px;
+}
+.nav2 .nav2__uzum-img .nav__uzum-text {
+  margin-left: 20px;
+  color: rgb(135, 3, 243);
+  font-weight: 700;
+}
+.nav2 .nav2__btn-div .nav__btn {
+  width: 130px;
+  height: 50px;
+  border: none;
+  outline: none;
+  background-color: #e7ebff;
+  color: rgb(135, 3, 243);
+  font-weight: 400;
+  border-radius: 5px;
+}
+.nav2 .nav2__btn-div .nav2__icon {
+  font-size: 20px;
+}
+.nav2 .nav2__inp-div .nav2__inp {
+  margin-left: -50px;
+  width: 430px;
+  height: 50px;
+  padding-left: 20px;
+  outline: none;
+}
+.nav2 .nav2__kirish-text-icon .nav2__kirish-text {
+  font-size: 18px;
+  font-weight: 500;
+}
+.nav2 .nav2__kirish-text-icon .nav2__person {
+  font-size: 23px;
+}
+.nav2 .list {
+  display: flex;
+  margin-top: 15px;
+  gap: 30px;
+  justify-content: center;
+}
+.nav2 .list .list__iteam {
+  color: rgb(162, 162, 165);
+}
+
+section .sect__text-div {
+  font-weight: 700;
+  margin-bottom: 40px;
+}
+section .sect__card {
+  width: 100%;
+  border-radius: 10px;
+  box-shadow: 0px 0px 6px 0px;
+  margin-bottom: 20px;
+}
+section .sect__card .sect__uzum {
+  width: 100%;
+  height: 440px;
+  border-radius: 10px;
+}
+section .sect__card .sect__card-pdiv {
+  padding-left: 15px;
+}
+section .sect__card .sect__card-pdiv .sect__smart-text {
+  font-size: 15px;
+  font-weight: 500;
+  padding-top: 10px;
+}
+section .sect__card .sect__card-pdiv .sect__span {
+  color: rgb(162, 162, 165);
+}
+section .sect__card .sect__card-pdiv .sect__colorful-text {
+  font-size: 13px;
+  font-weight: 400;
+  background-color: yellow;
+  border: none;
+  margin-bottom: 30px;
+  border-radius: 4px;
+}
+section .sect__card .sect__card-pdiv .sect__sum-text {
+  padding-bottom: 15px;
+}
+
+.sect2 {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  background-attachment: fixed;
+}
+.sect2 .sect2__box {
+  text-align: center;
+}
+.sect2 .sect2__box .sect2__uzum {
+  width: 1300px;
+  border-radius: 20px;
+}
+
+footer .footer-text .footer__list .footer__iteam {
+  padding-bottom: 20px;
+}
+footer .footer-text .footer__list .footer__iteamm {
+  padding-bottom: 20px;
+}
+footer .footer-text .footer__icons {
+  display: flex;
+  margin-left: 40px;
+  gap: 10px;
+  font-size: 33px;
+}
+footer .fotter-texoo {
+  font-weight: 500;
+}
+footer .fotter__text3 {
+  font-size: 12px;
+  text-align: end;
+}
+
+/*# sourceMappingURL=main.css.map */

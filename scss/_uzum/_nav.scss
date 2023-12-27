@@ -1,0 +1,124 @@
+.nav {
+    background: rgb(244, 245, 255);
+    padding-top: 5px;
+    cursor: grab;
+
+    .nav__text-div {
+        .nav__toshkent-text {
+            font-weight: 500;
+        }
+    }
+
+    .nav__text-div2 {
+
+        .nav__assign-text {
+            font-weight: 500;
+            margin-left: -10px;
+        }
+    }
+
+    .nav__text-div3 {
+        .nav__order-text {
+            color: rgb(162, 162, 165);
+            font-weight: 400;
+        }
+    }
+
+    .nav__text-div4 {
+        .nav__answer-text {
+            font-weight: 500;
+            letter-spacing: 0.30px;
+            margin-left: 30px;
+
+
+
+            .nav__quasion-text {
+                padding-left: 30px;
+                letter-spacing: 0.30px;
+            }
+        }
+    }
+}
+
+
+.nav2 {
+    margin-top: 20px;
+
+    .nav2__uzum-img {
+        display: flex;
+
+        .nav__uzum {
+            height: 40px;
+            height: 40px;
+
+        }
+
+        .nav__uzum-text {
+            margin-left: 20px;
+            color: rgb(135, 3, 243);
+            font-weight: 700;
+        }
+    }
+
+
+
+
+    .nav2__btn-div {
+
+        .nav__btn {
+            width: 130px;
+            height: 50px;
+            border: none;
+            outline: none;
+            background-color: #e7ebff;
+            color: rgb(135, 3, 243);
+            font-weight: 400;
+            border-radius: 5px;
+
+        }
+
+        .nav2__icon {
+            font-size: 20px;
+        }
+    }
+
+    .nav2__inp-div{
+
+        .nav2__inp{
+            margin-left: -50px;
+            width: 430px;
+            height: 50px;
+            padding-left: 20px;
+            outline: none;
+        }
+    }
+
+
+    .nav2__kirish-text-icon{
+
+        .nav2__kirish-text{
+            font-size: 18px;
+            font-weight: 500;
+            
+        }
+        .nav2__person{
+            font-size: 23px;
+        }
+    }
+
+
+    .list{
+        display: flex;
+        margin-top: 15px;
+        gap: 30px;
+        justify-content: center;
+
+        .list__iteam{
+            color: rgb(162, 162, 165);
+
+        }
+    }
+
+
+
+}

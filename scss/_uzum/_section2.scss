@@ -1,0 +1,14 @@
+.sect2{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-attachment: fixed;
+
+    .sect2__box{
+        text-align: center;
+
+        .sect2__uzum{
+            width: 1300px;
+            border-radius: 20px;
+        }
+    }
+}
